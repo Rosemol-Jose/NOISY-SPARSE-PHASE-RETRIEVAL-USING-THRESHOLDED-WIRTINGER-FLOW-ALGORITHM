@@ -3,7 +3,7 @@
  #The project is trying to find a solution for phase loss of a signal during various signal processing applications using modified Wirtinger Flow Algorithm.
  #It is basically a gradient solution
  #Project plots the effects of different factors on the error in observations.
- # The detailed view of problem is found in the thesis report i  the repository.
+ #The detailed view of problem is found in the thesis report i  the repository.
  #We tried  to implement the algorithm for a larger dataset which is in progress.
 #Dataset  available at           : See http://dsp.rice.edu/research/transmissionmatrices/
 #Reference        : "Coherent Inverse Scattering via Transmission Matrices: Efficient Phase Retrieval Algorithms and a Public Dataset", presented at the International Conference on Computational Photography 2017.
